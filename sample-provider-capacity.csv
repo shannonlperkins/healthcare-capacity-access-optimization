@@ -1,0 +1,9 @@
+Provider,Provider Type,Clinical FTE,Clinical Days/Week,Slots/Day,Template Utilization,No-Show Rate,New Patient Slots/Week
+"Adams, MD",Physician,1.0,4.0,20,0.96,0.06,8
+"Brooks, MD",Physician,0.8,3.5,20,0.94,0.05,6
+"Chen, DO",Physician,1.0,4.0,22,0.97,0.07,8
+"Diaz, MD",Physician,0.8,3.0,20,0.93,0.05,5
+"Evans, NP",APP,1.0,4.5,18,0.95,0.08,10
+"Foster, PA",APP,1.0,4.5,18,0.94,0.07,10
+"Grant, MD",Physician,0.6,2.5,20,0.92,0.05,4
+"Hall, NP",APP,0.8,3.5,18,0.93,0.08,8
